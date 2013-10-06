@@ -1,0 +1,17 @@
+{
+    "name": "oliverlorenz/are-you-my-friend-facebook",
+    "require": {
+        "facebook/php-sdk": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Oliver Lorenz",
+            "email": "oliver.lorenz@mozilo.de"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "OliverLorenz\\": "src/"
+        }
+    }
+}
